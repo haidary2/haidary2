@@ -1,0 +1,5 @@
+apt-get install
+git clone:http://github.com/oamwithyou11/Bruteinsta
+cd instaBrute
+chmod+ insta.sh
+./insta.sh
